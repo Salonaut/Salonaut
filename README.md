@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-к
+My projects:
+- https://github.com/Salonaut/E-commerce
+- https://github.com/Salonaut/to-do-app
